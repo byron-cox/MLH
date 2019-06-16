@@ -14,6 +14,10 @@ def get_elements(twitter_handle):
 def get_user_tweets(twitter_handle):
   ## Nothing here yet!
   pass
+
+def clean_tweets_data(tweets):
+  ## Nothing here yet!
+  pass
     
   
             
