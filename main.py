@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 from flask_socketio import SocketIO
 from twitter_scraper_fetcher import *
-from mlh_twitter_api import moderate
+from content_moderator import moderate
 import json
 import config
 import random
